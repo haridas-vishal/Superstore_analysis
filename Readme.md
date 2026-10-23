@@ -16,7 +16,7 @@ charts/`: exported charts
 Dataset :
 Superstore sales data from Kaggle: 9,994 rows and 21 columns
 (9,993 rows after cleaning). Each row is one product line in an order.
-Total sales: [your number]. Total profit: [your number].
+Total sales: [ 2,296,919]. Total profit: [286,409].
 
 Process :
 1. Explore: reviewed columns, data types, and summary statistics.
